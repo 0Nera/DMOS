@@ -1,0 +1,7 @@
+[submodule "doom"]
+	path = doom
+	url = https://github.com/ozkl/doomgeneric
+[submodule "limine"]
+	path = limine
+	url = https://github.com/limine-bootloader/limine/
+	branch = 5.x-branch-binary
